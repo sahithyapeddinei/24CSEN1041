@@ -5,3 +5,10 @@ print("AND:", a and b)
 print("OR :", a or b)
 print("NOT a:", not a)
 print("NOT b:", not b)
+
+OUTPUT
+AND: False
+OR : True
+NOT a: False
+NOT b: True
+
